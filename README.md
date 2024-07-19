@@ -86,8 +86,8 @@
 
 ## 📊 **My Stats**
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lozavival&theme=transparent&bg_color=000&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-  <img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Lozavival&theme=deuteranopia-friendly-theme&hide_longest_streak=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Lozavival&theme=transparent&bg_color=000&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Lozavival&theme=deuteranopia-friendly-theme&hide_longest_streak=true"/>
 </div>
 <div align="center">
   <img height="182em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lozavival&show_icons=true&theme=2077&line_height=27"/>
