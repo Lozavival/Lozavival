@@ -69,28 +69,10 @@
 </details>
 
 
-## 🚀 **Most Notable Projects**
-
-<a href="https://github.com/Lozavival/Banco-de-Conhecimento">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=Lozavival&repo=Banco-de-Conhecimento&bg_color=000&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&border_radius=20"/>
-</a>
-
-<a href="https://github.com/PenseNisso/PenseNissoApp">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=PenseNisso&repo=PenseNissoApp&bg_color=000&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&border_radius=20"/>
-</a>
-
-<a href="https://github.com/As-Moes/MOES">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=As-Moes&repo=MOES&bg_color=000&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&border_radius=20"/>
-</a>
-
-
 ## 📊 **My Stats**
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Lozavival&theme=transparent&bg_color=000&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Lozavival&theme=deuteranopia-friendly-theme&hide_longest_streak=true"/>
-</div>
-<div align="center">
-  <img height="182em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lozavival&show_icons=true&theme=2077&line_height=27"/>
 </div>
 
 
